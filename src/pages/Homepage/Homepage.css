@@ -1,0 +1,29 @@
+header {
+  background: url("../../../public/images/fe-header-bg.png");
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 35vh;
+  width: 100%;
+  padding: 10px 20px;
+  color: #ffffff;
+  overflow-y: scroll;
+}
+
+.ui.vertical.menu {
+  margin: 0 auto;
+}
+
+.row {
+  gap: 10px !important;
+}
+
+.drinks {
+  padding: 10px 20px 20px 20px;
+}
+
+.ui.card {
+  margin-left: auto;
+  margin-right: auto;
+}

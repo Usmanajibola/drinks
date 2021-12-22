@@ -1,0 +1,16 @@
+.butn {
+  background-color: #eaa075;
+  color: #ffffff;
+  border: 1px solid transparent;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 0 5px;
+}
+
+.outline {
+  border: 1px solid #eaa075;
+  color: #eaa075;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
